@@ -124,6 +124,41 @@ I also have experience in AI-generated product photography and building AI-integ
 
 ---
 
+## 🚀 Featured Projects
+
+### TreeID - Nature Exploration Mobile App
+*   **Platform:** Expo / React Native (Android & iOS)
+*   **Role:** Solo Developer & Designer
+*   Conceptualised, designed, and developed a full-featured nature-exploration app entirely independently.
+*   Integrated PlantNet API for real-time plant and tree identification from camera or gallery images.
+*   Implemented GPT-4o Vision for AI-powered plant disease detection and personalised plant care guidance.
+*   Built Firebase backend for user authentication, real-time database, and cloud storage.
+*   Developed GPS-based map feature allowing users to log, pin, and track plant discoveries by location.
+*   Designed and implemented a gamification system including badges, daily streaks, and achievement levels.
+*   Integrated Razorpay payment gateway for freemium monetisation model and premium subscriptions.
+*   Handled complete project lifecycle: UX research, UI design, development, API integration, EAS build & deployment.
+*   Designed all visual assets, icons, splash screens, and in-app graphics from scratch in Illustrator & Figma.
+
+### Other Notable Projects
+
+*   **BIKEFORGE.AI** — AI-Powered Bike Customisation Web App
+    *   Built a React frontend with cyberpunk-themed UI for AI-powered motorcycle customisation and visualisation.
+    *   Used generative AI APIs to produce realistic custom bike renders from user selections.
+
+*   **AutoShorts** — AI Video Pipeline — End-to-End Automated Short Video Creator
+    *   Built a full automation pipeline: YouTube download -> Whisper transcription -> GPT-4o clip selection.
+    *   Added FFmpeg vertical video cutting, ASS caption burning, and a React frontend with real-time job polling.
+
+*   **LearnAI** — SaaS Platform — Full-Stack AI Learning Platform
+    *   Developed with React frontend, FastAPI backend, PostgreSQL database, JWT authentication, and gamification.
+    *   Integrated Razorpay for subscriptions, Redis for caching, and Docker for containerised deployment.
+
+*   **Real-Time Voice Translator** — Live AI-Powered Translation App
+    *   Built a real-time voice translation app using FastAPI, OpenAI Whisper for speech recognition, and Claude API.
+    *   Supported multi-language live translation with low-latency audio processing.
+
+---
+
 ## 📊 GitHub Stats (Will be updated dynamically)
 
 <!-- GitHub Stats Placeholder -->
